@@ -11,26 +11,24 @@ Table of Contents:
 *   Intro 3: Deterministic Programming
 *   Part 1: Data Collection
 *   Part 2: Data Wrangling / Analysis / Preprocessing Steps
-   - Part 2.1: First Glance
-   - Part 2.2: Creating Primary Frame
-   - Part 2.3: Exploratory Data Analysis (EDA)
-   - Part 2.4: Mask Modifications
-   - Part 2.5: Splitting data and Finalizing the Frame
-   - Part 2.6: Creating Train/Val/Test lists
-   - Part 2.7: Building Data Loaders
-
+      - Part 2.1: First Glance
+      - Part 2.2: Creating Primary Frame
+      - Part 2.3: Exploratory Data Analysis (EDA)
+      - Part 2.4: Mask Modifications
+      - Part 2.5: Splitting data and Finalizing the Frame
+      - Part 2.6: Creating Train/Val/Test lists
+      - Part 2.7: Building Data Loaders
 *   Part 3: Loading the Model's Architecture
 *   Part 4: Training the Model for Locating ROI
-    - Part 4.1: Defining A Metric Function
-    - Part 4.2: Defining A Loss Function
-    - Part 4.3: Evaluating the Untrained Model's Performance to Determine Our Baseline
-    - Part 4.4: Building A Trainer
-    - Part 4.5: Training a Model (UFlex)
-    - Part 4.6: Training a Model (CustomUNet)
-
+      - Part 4.1: Defining A Metric Function
+      - Part 4.2: Defining A Loss Function
+      - Part 4.3: Evaluating the Untrained Model's Performance to Determine Our Baseline
+      - Part 4.4: Building A Trainer
+      - Part 4.5: Training a Model (UFlex)
+      - Part 4.6: Training a Model (CustomUNet)
 *   Part 5: Evaluating the Trained Models
-    - Part 5.1: Evaluating Trained Uflex
-    - Part 5.2: Evaluating Trained CustomUNet
+      - Part 5.1: Evaluating Trained Uflex
+      - Part 5.2: Evaluating Trained CustomUNet
 
 
 Dataset Information:
