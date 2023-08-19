@@ -1,4 +1,4 @@
-In this deep learning project, I plan to train a semantic segmentation model on a Brain Tumor 2D MRI Slices database, provided by Balakrishna Kumar.
+In this deep learning project, I plan to train a semantic segmentation model on "Brain Tumor 2D MRI Slices" database, provided by Balakrishna Kumar.
 
 I'll use MONAI and PyTorch libraries for data wrangling and creating models.
 
@@ -30,13 +30,13 @@ Table of Contents:
       - Part 5.1: Evaluating Trained Uflex
       - Part 5.2: Evaluating Trained CustomUNet
 
-
 Dataset Information:
+
     - Title of Dataset: Brain 2D MRI Images and Mask
     - Provided by: Balakrishna Kumar
     - Description: 4715 (.h5) files containing:
         1.   The actual 2D Brain Images (FLAIR channel)
         2.   Corresponding masks for tumor segmentation  
     - Extracted from: 3D BraTS-2019
-Link:
-    https://www.kaggle.com/datasets/balakrishcodes/brain-2d-mri-imgs-and-mask
+    - Link:
+          https://www.kaggle.com/datasets/balakrishcodes/brain-2d-mri-imgs-and-mask
