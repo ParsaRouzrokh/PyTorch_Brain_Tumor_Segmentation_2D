@@ -40,3 +40,8 @@ Dataset Information:
     - Extracted from: 3D BraTS-2019
     - Link:
           https://www.kaggle.com/datasets/balakrishcodes/brain-2d-mri-imgs-and-mask
+
+
+
+![predictions_plot](https://github.com/ParsaRouzrokh/PyTorch_Brain_Tumor_Segmentation_2D/assets/142688509/8aef951c-d8a2-4ef5-90df-2b78e8224ba2)
+
