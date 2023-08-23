@@ -44,7 +44,12 @@ Dataset Information:
     - Link:
           https://www.kaggle.com/datasets/balakrishcodes/brain-2d-mri-imgs-and-mask
 
-
+Here are the final predictions of our trained models:
 
 ![predictions_plot](https://github.com/ParsaRouzrokh/PyTorch_Brain_Tumor_Segmentation_2D/assets/142688509/8aef951c-d8a2-4ef5-90df-2b78e8224ba2)
 
+For additional visualizations, feel free to check ['Plots & Figures'](https://github.com/ParsaRouzrokh/PyTorch_Brain_Tumor_Segmentation_2D/tree/main/Plots%20%26%20Figures).
+
+Should you face any issues, please don't hesitate to contact me using: [parsa00rouzrokh@gmail.com](mailto:parsa00rouzrokh@gmail.com)
+
+Parsa
