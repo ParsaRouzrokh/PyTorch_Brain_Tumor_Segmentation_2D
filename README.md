@@ -52,4 +52,5 @@ For additional visualizations, feel free to check ['Plots & Figures'](https://gi
 
 Should you face any issues, please don't hesitate to contact me using: [parsa.rouzrokh97@gmail.com](mailto:parsa.rouzrokh97@gmail.com)
 
+Regards,
 Parsa
