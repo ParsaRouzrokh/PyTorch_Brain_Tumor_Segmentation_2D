@@ -50,6 +50,6 @@ Here are the final predictions of our trained models:
 
 For additional visualizations, feel free to check ['Plots & Figures'](https://github.com/ParsaRouzrokh/PyTorch_Brain_Tumor_Segmentation_2D/tree/main/Plots%20%26%20Figures).
 
-Should you face any issues, please don't hesitate to contact me using: [parsa00rouzrokh@gmail.com](mailto:parsa00rouzrokh@gmail.com)
+Should you face any issues, please don't hesitate to contact me using: [parsa.rouzrokh97@gmail.com](mailto:parsa.rouzrokh97@gmail.com)
 
 Parsa
