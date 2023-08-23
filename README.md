@@ -2,7 +2,10 @@ In this deep learning project, I plan to train a semantic segmentation model on 
 
 I'll use MONAI and PyTorch libraries for data wrangling and creating models.
 
-T4 GPU of google colab will be used for this session.
+T4 GPU of Google Colab will be used for this session.
+
+A brief demo of this project is available at: 
+https://drive.google.com/file/d/1J4rTXqb2bO0oipFvsjbYH7sX3565Rg2G/view
 
 Table of Contents:
 
