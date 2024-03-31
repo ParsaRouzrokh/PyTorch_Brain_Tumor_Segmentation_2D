@@ -1,3 +1,0 @@
-gradio==3.45.0
-gdown
-monai
