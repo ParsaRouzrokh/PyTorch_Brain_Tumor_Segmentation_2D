@@ -1,4 +1,4 @@
-In this deep learning project, I plan to train a semantic segmentation model on "Brain Tumor 2D MRI Slices" database, provided by Balakrishna Kumar.
+In this project, I plan to train a semantic segmentation model on "Brain Tumor 2D MRI Slices" database, provided by Balakrishna Kumar.
 
 I'll use MONAI and PyTorch libraries for data wrangling and creating models.
 
